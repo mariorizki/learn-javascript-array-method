@@ -30,7 +30,7 @@ var findAbdul = names.find(function(name) {
 
 console.log(findAbdul);
 
-// Combine to Arrays
+// Combine two Arrays
 const names1 = ['Mr. Fahri', 'Mr. Abdul', 'Mrs. Josephhine'];
 const names2 = ['Mr. Joseph', 'Mr. Paul', 'Mrs. Paula', 'Mr. Hakim'];
 
